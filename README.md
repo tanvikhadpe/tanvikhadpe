@@ -2,9 +2,6 @@
 <h1 align="left">𝐇𝐢 𝐭𝐡𝐞𝐫𝐞 👋, 𝐈'𝐦 𝐓𝐚𝐧𝐯𝐢 𝐊𝐡𝐚𝐝𝐩𝐞</h1>
 <h3 align="left">✨ UI/ UX Designer | 👩‍💻 Full Stack Web Developer</h3>
 
-<p align="left">
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvikhadpe&theme=flat&margin-w=15" alt="tanvikhadpe" /></a> </p>
-
 - 🔭 I’m currently pursuing my Masters from **Veermata Jijabai Techonological Institute**
 
 - 👯 I’m looking to collaborate on **AI/ML projects**
@@ -70,9 +67,9 @@
   </tr>
 </table>
 
-<p align="left"> 
 
-</p>
+<p align="left">
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvikhadpe&theme=flat&margin-w=15" alt="tanvikhadpe" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvikhadpe&show_icons=true&locale=en&layout=compact" alt="tanvikhadpe" /></p>
 
