@@ -1,23 +1,4 @@
-<head>
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-  border: 1px solid #f2f2f2;
-}
 
-td, th {
-  border: 1px solid #f2f2f2;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #f2f2f2;
-}
-</style>
-</head>
 <h1 align="left">Hi there 👋, I'm Tanvi Khadpe </h1>
 <h3 align="left">✨ UI/ UX Designer | 👩‍💻 Full Stack Web Developer</h3>
 
