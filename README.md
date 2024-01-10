@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi there 👋, I'm Tanvi Khadpe </h1>
+<h1 align="left">𝐇𝐢 𝐭𝐡𝐞𝐫𝐞 👋, 𝐈'𝐦 𝐓𝐚𝐧𝐯𝐢 𝐊𝐡𝐚𝐝𝐩𝐞</h1>
 <h3 align="left">✨ UI/ UX Designer | 👩‍💻 Full Stack Web Developer</h3>
 
 <p align="left">
