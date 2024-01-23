@@ -75,3 +75,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvikhadpe&show_icons=true&locale=en" alt="tanvikhadpe" /></p>
 
+<p>&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app/api?username=tanvikhadpe&show_icons=true&locale=en](https://leetcard.jacoblin.cool/https%3A%2F%2Fleetcode.com%2Ftanvi-khadpe%2F?theme=unicorn&font=Encode%20Sans%20Semi%20Expanded&ext=heatmap)https://leetcard.jacoblin.cool/https%3A%2F%2Fleetcode.com%2Ftanvi-khadpe%2F?theme=unicorn&font=Encode%20Sans%20Semi%20Expanded&ext=heatmap" alt="tanvikhadpe" /></p>
+
+
+
