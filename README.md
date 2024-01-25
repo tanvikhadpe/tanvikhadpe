@@ -70,14 +70,9 @@
 
 <p align="left">
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvikhadpe&theme=flat&margin-w=15" alt="tanvikhadpe" /></a> </p>
-
-<p>[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)</p>
-
-<p><img align="right" src="https://leetcode-stats-six.vercel.app/?username=tanvi-khadpe&show_icons=true&locale=en&layout=compact" alt="tanvikhadpe" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvikhadpe&show_icons=true&locale=en&layout=compact" alt="tanvikhadpe" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvikhadpe&show_icons=true&locale=en" alt="tanvikhadpe" /></p>
+<p><img align="right" src="https://leetcode-stats-six.vercel.app/?username=tanvi-khadpe&show_icons=true&locale=en&layout=compact" alt="tanvikhadpe" /></p>
 
 
 
