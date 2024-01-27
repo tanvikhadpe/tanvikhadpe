@@ -70,7 +70,7 @@
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvikhadpe&theme=flat&margin-w=15" alt="tanvikhadpe" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvikhadpe&show_icons=true&locale=en&layout=compact" alt="tanvikhadpe" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvikhadpe&show_icons=true&locale=en" alt="tanvikhadpe" /></p>
-<p><img align="left" src="https://leetcard.jacoblin.cool/tanvi-khadpe?theme=light&font=Noto%20Sans%20Mahajani&cache=0" alt="tanvikhadpe" /></p>
+<!-- <p><img align="left" src="https://leetcard.jacoblin.cool/tanvi-khadpe?theme=light&font=Noto%20Sans%20Mahajani&cache=0" alt="tanvikhadpe" /></p> -->
 
 
 
